@@ -1,0 +1,2 @@
+# CLOCK-GATING-EFFICIENCY-AND-DYNAMIC-POWER-OPTIMISATION
+In synchronous chips, clock networks consume major dynamic power. Clock gating reduces this by blocking clocks to inactive registers. However, poor gating, ungated registers, unnecessary gates, and frequently toggling enables waste energy. The engineer must analyze activity reports and rank power-saving opportunities by estimated picojoules saved.
